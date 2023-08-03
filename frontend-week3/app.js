@@ -8,7 +8,7 @@ const app = express();
 //Connecting Database
 connectDB();
 
-app.get('/', (req, res) => res.send('YOO'));
+app.get('/', (req, res) => res.send('YOO WASSUP'));
 
 const port = process.env.PORT || 8082;
 
