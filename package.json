@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "mangodb": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "prettier": "^2.8.8"
   }
 }
